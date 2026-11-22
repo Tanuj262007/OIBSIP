@@ -32,19 +32,21 @@ The project focuses on creating an engaging, visually appealing landing page wit
 ## 📸 Website Screenshots
 
 ### 1. Homepage
-![NexaFlow AI Homepage](screenshots/homepage.png)
+
+![Landing Page Homepage](Screenshots/homepage.png)
+
 
 ### 2. Platform & Features
-![NexaFlow AI Platform](screenshots/platform.png)
+![Platform & Features](Screenshots/platform.png)
 
 ### 3. Workflow Design
-![NexaFlow AI Workflow](screenshots/workflow_design.png)
+![Workflow Design](Screenshots/workflow_design.png)
 
 ### 4. Pricing Page
-![NexaFlow AI Pricing](screenshots/pricing_page.png)
+![Pricing Page](Screenshots/pricing_page.png)
 
 ### 5. Contact Section
-![NexaFlow AI Contact](screenshots/contact.png)
+![Contact Section](Screenshots/contact.png)
 
 ## 📂 Project Structure
 
