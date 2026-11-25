@@ -34,16 +34,16 @@ The project focuses on building an interactive temperature converter with respon
 ## 📸 Website Screenshots
 
 ### 1. Homepage
-![Tempora Homepage](screenshots/homepage.png)
+![Tempora Homepage](screenshot/homepage.png)
 
 ### 2. Temperature Converter
-![Tempora Temperature Converter](screenshots/converter.png)
+![Tempora Temperature Converter](screenshot/converter.png)
 
 ### 3. Features Section
-![Tempora Features](screenshots/Features.png)
+![Tempora Features](screenshot/Features.png)
 
 ### 4. How It Works
-![Tempora How It Works](screenshots/How_it_works.png)
+![Tempora How It Works](screenshot/How_it_works.png)
 
 ## 📐 Temperature Conversion Formulas
 
